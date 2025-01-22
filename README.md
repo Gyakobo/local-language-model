@@ -128,4 +128,4 @@ Password for 'https://USERNAME@github.com': <PASSWORD>
 * The only issue perhaps would be the networking/IT part of the project.
 
 ## License
-MIT 
+GPL-3.0
